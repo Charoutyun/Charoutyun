@@ -1,9 +1,7 @@
 <h1 align='center'>
 Hi, Welcome to my github Im Haroutyun ! 
 
-I’m currently working on a air sim.
-
-Its done !
+I’m currently working on a Web bank app
 </h1>
 
 <!--
