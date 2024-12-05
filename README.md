@@ -1,7 +1,7 @@
 <h1 align='center'>
 Hi, Welcome to my github Im Haroutyun ! 
 
-I’m currently working on a Web bank app
+I’m currently working on a Ai music player ! 
  
 
  
