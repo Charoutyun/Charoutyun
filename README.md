@@ -2,6 +2,8 @@
 Hi, Welcome to my github Im Haroutyun ! 
 I Have Finished my Ai music application 
 make sure to check it out ! 
+
+New project coming in soon, maybe working on a tank fighting simulator. 
  
 
  
